@@ -1,3 +1,5 @@
+Archiving as the repo was never used.  But, it demonstrates some early engagement with dbt as a technology.
+
 ### dbt models for [your org/project name]
 
 ---
